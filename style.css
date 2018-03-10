@@ -114,6 +114,10 @@ body {
 
 /* Media Queries Styles */
 @media screen and (max-width: 1024px) {
+  .main-section {
+    background: url(https://images.unsplash.com/photo-1508507282632-7ae0a31b8f62?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=56724e10068ff628f710c8868f3b0635&auto=format&fit=crop&w=1950&q=80) -10rem center/cover no-repeat;
+    overflow: hidden; }
+
   .main-title {
     transform: rotate(90deg); } }
 
